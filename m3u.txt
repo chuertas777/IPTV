@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="ANTIESTRES",tvg-logo="https://maxmediasa.co/wp-content/uploads/2021/05/Canal-antiestres-maxmedia-blanco.png",Antiestres
+http://maxdemocanales.ddns.net:1935/maxdemoantiestres/antiestres.stream/playlist.m3u8
+ 
+#EXTINF:-1,CANTINAZO
+http://maxdemocanales.ddns.net:1935/maxdemocantinazo/cantinazo.stream/playlist.m3u8
+ 
+#EXTINF:-1,SUPERMUSICA
+http://maxdemocanales.ddns.net:1935/maxdemosupermusica/supermusica.stream/playlist.m3u8
+ 
+#EXTINF:-1,MOMENTO24
+https://max.hvmultiplay.com/hls/momento24.m3u8
+ 
+#EXTINF:-1,RTVC
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+ 
+#EXTINF:-1,Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+ 
+#EXTINF:-1,Radio Cantinazo
+https://maxmediasa.duckdns.org:8443/cantinazo

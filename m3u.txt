@@ -16,6 +16,9 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
  
 #EXTINF:-1,tvg-id="SEÑAL COLOMBIA",tvg-logo="https://www.senalcolombia.tv/themes/custom/colombia_subtheme/img/nuevo_home/logo.svg",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-id="DW",tvg-logo="https://www.dw.com/es/actualidad/s-30684",DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8 
  
 #EXTINF:-1,tvg-id="RADIO CANTINAZO",tvg-logo="https://maxmediasa.co/wp-content/uploads/2021/05/logo-cantinazo-tv-maxmedia.png",Radio Cantinazo
 https://maxmediasa.duckdns.org:8443/cantinazo

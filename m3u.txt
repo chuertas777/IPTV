@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="ANTIESTRES",tvg-logo="https://maxmediasa.co/wp-content/uploads/2021/05/Canal-antiestres-maxmedia-blanco.png",Antiestres
+#EXTINF:-1,tvg-id="ANTIESTRES",tvg-logo="https://maxmediasa.co/wp-content/uploads/2021/05/Canal-antiestres-maxmedia-blanco.png",ANTIESTRES
 http://maxdemocanales.ddns.net:1935/maxdemoantiestres/antiestres.stream/playlist.m3u8
  
 #EXTINF:-1,tvg-id="CANTINAZO",tvg-logo="https://maxmediasa.co/wp-content/uploads/2021/05/logo-cantinazo-tv-maxmedia.png",CANTINAZO

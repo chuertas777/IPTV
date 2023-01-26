@@ -2,20 +2,20 @@
 #EXTINF:-1,tvg-id="ANTIESTRES",tvg-logo="https://maxmediasa.co/wp-content/uploads/2021/05/Canal-antiestres-maxmedia-blanco.png",Antiestres
 http://maxdemocanales.ddns.net:1935/maxdemoantiestres/antiestres.stream/playlist.m3u8
  
-#EXTINF:-1,CANTINAZO
+#EXTINF:-1,tvg-id="CANTINAZO",tvg-logo="https://maxmediasa.co/wp-content/uploads/2021/05/logo-cantinazo-tv-maxmedia.png",CANTINAZO
 http://maxdemocanales.ddns.net:1935/maxdemocantinazo/cantinazo.stream/playlist.m3u8
  
-#EXTINF:-1,SUPERMUSICA
+#EXTINF:-1,tvg-id="SUPERMUSICA",tvg-logo="https://maxmediasa.co/wp-content/uploads/2021/05/Logo-supermusica-hd-cantinazotv-1.png",SUPERMUSICA
 http://maxdemocanales.ddns.net:1935/maxdemosupermusica/supermusica.stream/playlist.m3u8
  
-#EXTINF:-1,MOMENTO24
+#EXTINF:-1,tvg-id="MOMENTO24",tvg-logo="https://maxmediasa.co/wp-content/uploads/2021/05/Logo-momento-24-maxmedia-1.png",MOMENTO24
 https://max.hvmultiplay.com/hls/momento24.m3u8
  
-#EXTINF:-1,RTVC
+#EXTINF:-1,tvg-id="RTVC",tvg-logo="https://s3.amazonaws.com/rtvc-assets-qa-sistemasenalcolombia.gov.co/s3fs-public/govco/page_1/u0.svg",RTVC
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
  
-#EXTINF:-1,Señal Colombia
+#EXTINF:-1,tvg-id="SEÑAL COLOMBIA",tvg-logo="https://www.senalcolombia.tv/themes/custom/colombia_subtheme/img/nuevo_home/logo.svg",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
  
-#EXTINF:-1,Radio Cantinazo
+#EXTINF:-1,tvg-id="RADIO CANTINAZO",tvg-logo="https://maxmediasa.co/wp-content/uploads/2021/05/logo-cantinazo-tv-maxmedia.png",Radio Cantinazo
 https://maxmediasa.duckdns.org:8443/cantinazo

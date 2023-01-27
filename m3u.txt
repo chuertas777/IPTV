@@ -18,7 +18,13 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1,tvg-id="DW",tvg-logo="https://www.dw.com/es/actualidad/s-30684",DW
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8 
- 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
+
+#EXTINF:-1,tvg-id="CANAL RCN",tvg-logo="https://html.canalrcn.com/CanalRCN/react/rediseno-nl/widget/img/logo/logo-canal-2021.svg",RCN
+https://www.dailymotion.com/cdn/live/video/x7vyv0z.m3u8?sec=92MOLwNeefsP3yChf6Y1nLLnsyw20CEyvNA2XJFnG2Rh5tZ_AoCRkCtZLSBlw7DwJcqH1QkAVAI19JCQlxu2EQ&dmTs=203882&dmV1st=88D53D14A79FE7BD3E8C526BE7C72F6B
+
+#EXTINF:-1,tvg-id="CANAL CARACOL",tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/f6eaa77/2147483647/strip/true/crop/1130x1130+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fb9%2Fe9%2Fa9e8d7454e9291e948d0baea01c5%2Fgroup-6-2x.png",CARACOL
+https://co-e2-p-e-az1.cdn.mdstrm.com/live-stream/574463697b9817cf0886fc17/publish/media_250.m3u8?aid=574462d1cab0f4d50866f001&uid=tUIfKT0psN3hwq7Ll7HSLJqM4Nh3Kw41&sid=L9D0tD2j5qDcX726rvNmO6oB5M5Iqrk8&pid=0PqK8ZPKYeUmr5MLrSmZhfjVJrHmUG3P&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&es=co-e2-p-e-az1.cdn.mdstrm.com&ote=1674913270804&ot=er9WjnCTVTc_4aHZAg2iXw&proto=https&pz=us
+
 #EXTINF:-1,tvg-id="RADIO CANTINAZO",tvg-logo="https://maxmediasa.co/wp-content/uploads/2021/05/logo-cantinazo-tv-maxmedia.png",Radio Cantinazo
 https://maxmediasa.duckdns.org:8443/cantinazo

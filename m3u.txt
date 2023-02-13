@@ -90,7 +90,7 @@ http://179.51.119.30/hls/tvagro.m3u8
 http://179.51.119.30/hls/hogartv.m3u8
 
 #EXTINF:-1,tvg-id="EMISORA MOMENTO24",tvg-logo="",EMISORA M24
-http://crmm.duckdns.org:9090/public/momento24
+http://crmm.duckdns.org:9090/hls/momento24/live.m3u8
 
 #EXTINF:-1,tvg-id="RADIO CANTINAZO",tvg-logo="https://maxmediasa.co/wp-content/uploads/2021/05/logo-cantinazo-tv-maxmedia",Radio Cantinazo
 https://maxmediasa.duckdns.org:8443/cantinazo
